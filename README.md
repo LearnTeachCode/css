@@ -32,7 +32,7 @@ Save the following code inside your **index.html** file.
 		<p>In conclusion, HTML and CSS are the coolest computer languages ever. Thanks for reading this informative article!</p>
 		<div class="boxes">
 			<div class="box">
-				<h3>Box 1 Title</h3>
+				<h3 class="title">Box 1 Title</h3>
 				<div class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sit amet pulvinar diam, sit amet viverra erat. Maecenas vitae orci sit amet nulla sagittis luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
 				<div class="more"><a href="#">Read More</a></div>
 			</div>
