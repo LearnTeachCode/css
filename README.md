@@ -1,4 +1,5 @@
 # css
+Save the following code inside your **index.html** file.
 ###index.html
 ```html
 <!DOCTYPE html>
