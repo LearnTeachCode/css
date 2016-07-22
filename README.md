@@ -17,7 +17,7 @@ Save the following code inside your **index.html** file.
 	</ul>
 	<h1>HTML and CSS are Awesome</h1>
 	<div class="banner">
-		<img src="html-rocks.jpg">
+		<img src="https://raw.githubusercontent.com/LearnToCodeLA/css/master/html-rocks.jpg">
 	</div>
 </header>
 <div id="content">
